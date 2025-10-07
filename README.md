@@ -22,10 +22,10 @@ To build a dashboard to understand Superstore’s sales performance, looking at 
 
 ## Key Insights from the Dashboard
 
- -Sales showed steady postive growth from the first year (2015) to (2018)
- -Consumers had the highest volume of sales, totalling $1.15M
- The top state in sales was California, totalling $446.31K
- - Sales were largely concentrated in November and December, with a general upward trend in sales through the year, with the lowest monthly sales in Febuary of $59K across all regions and years, and the highest monthly sales in November totalling $350K
+- Sales showed steady postive growth from the first year (2015) to (2018) 
+- Consumers had the highest volume of sales, totalling $1.15M
+- The top state in sales was California, totalling $446.31K
+- Sales were largely concentrated in November and December, with a general upward trend in sales through the year, with the lowest monthly sales in Febuary of $59K across all regions and years, and the highest monthly sales in November totalling $350K
 
 ---
 ## Sections of the Report
