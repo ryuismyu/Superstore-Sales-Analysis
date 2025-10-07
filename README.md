@@ -36,6 +36,11 @@ To build a dashboard to understand Superstore’s sales performance, looking at 
 - Report data can be sliced by Segments, Country and Year to show particular data.
 
 ---
+## Skills applied
+- Data cleaning and transformation: Handling null and invalid values, adjusting data types, removing duplicates
+- EDA: Creating pivot tables and calculated fields
+- Data visualization: Interactive dashboard made in power BI with slicers.
+- Tools used: SQL, Excel, Power BI
 
 
 
