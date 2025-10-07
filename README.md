@@ -14,6 +14,12 @@ To build a dashboard to understand Superstore’s sales performance, looking at 
 
 ---
 
+# Download the dashboard
+
+Download the interactive dahsboard (PBIX file) and open in Power BI desktop
+
+[Download Superstore PBIX](https://drive.google.com/file/d/1dZoRGZSJoCQt2fzbFY27aSEeiwTzevTc/view?usp=drive_link)
+
 ## Dashboard Preview
 
 ![Dashboard Screenshot](dashboard/dashboard_screenshot.png)
