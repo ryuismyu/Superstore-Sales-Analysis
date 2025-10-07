@@ -1,6 +1,6 @@
 # Superstore Sales Analysis Dashboard
 
-I have made a Power BI dashboard analyzing sales from the Superstore dataset. The dashboard highlights sales data across time, region, and category. The dataset is provided by kaggle and the link is provided below
+I have made a Power BI dashboard analyzing sales from the Superstore dataset. The dashboard highlights sales data across time, region, and category. The dataset is provided by kaggle and the link is provided below.
 
 
 ## Business Objective
@@ -16,7 +16,7 @@ To build a dashboard to understand Superstore’s sales performance, looking at 
 
 # Download the dashboard
 
-Download the interactive dahsboard (PBIX file) and open in Power BI desktop
+Download the interactive dashboard (PBIX file) and open in Power BI desktop:
 
 [Download Superstore PBIX](https://drive.google.com/file/d/1dZoRGZSJoCQt2fzbFY27aSEeiwTzevTc/view?usp=drive_link)
 
